@@ -1,0 +1,6 @@
+Sir correct me if my understanding is wrong:
+
+Descriptive: The cat is sick.
+Diagnostic: Why is the cat sick?
+Predictive: The cat will die tomorrow.
+Prescriptive: Let's go to vet.
